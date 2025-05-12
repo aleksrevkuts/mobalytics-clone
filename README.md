@@ -39,3 +39,10 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+
+### MVP
+
+1. Make a search bar for watching player's data
+2. Make a tier list of champions
+3. Make a list of all champions with ability to search
+4. Make a page with their builds
